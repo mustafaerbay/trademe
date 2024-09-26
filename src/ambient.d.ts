@@ -1,0 +1,1 @@
+type fromCountryTest = { name: string; knownFor: string[]; };

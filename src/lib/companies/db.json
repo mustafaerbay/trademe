@@ -1,0 +1,338 @@
+[
+    {
+        "slug": "c001",
+        "id": "c001",
+        "name": "TechNova Solutions",
+        "legalName": "TechNova Solutions Inc.",
+        "founded": 2010,
+        "headquarters": {
+            "address": "123 Innovation Drive",
+            "city": "San Francisco",
+            "state": "CA",
+            "zipCode": "94105",
+            "country": {
+                "name": "United Arab Emirates",
+                "code": "UAE"
+            }
+        },
+        "otherOffices": [
+            {
+                "city": "New York",
+                "state": "NY",
+                "country": {
+                    "name": "United States",
+                    "code": "US"
+                }
+            },
+            {
+                "city": "London",
+                "country": {
+                    "name": "United Kingdom",
+                    "code": "GB"
+                }
+            }
+        ],
+        "industry": "Information Technology",
+        "sector": "Software",
+        "employeeCount": 1500,
+        "ceo": "Sarah Johnson",
+        "publiclyTraded": true,
+        "stockSymbol": "TNVS",
+        "revenue": {
+            "amount": 500000000,
+            "currency": "USD",
+            "year": 2023
+        },
+        "website": "https://www.technovasolutions.com",
+        "socialMedia": {
+            "linkedin": "https://www.linkedin.com/company/technova-solutions",
+            "twitter": "@TechNovaSolutions",
+            "facebook": "TechNovaSolutionsOfficial"
+        },
+        "products": [
+            {
+                "id": "p001",
+                "name": "CloudSync Pro",
+                "category": "Cloud Storage",
+                "description": "Enterprise-grade cloud storage solution with advanced synchronization capabilities.",
+                "launchDate": "2015-03-15",
+                "price": 19.99,
+                "currency": "USD",
+                "subscriptionModel": "Monthly",
+                "freeTrialDays": 30,
+                "technicalRequirements": {
+                    "operatingSystems": [
+                        "Windows 10+",
+                        "macOS 10.14+",
+                        "Linux"
+                    ],
+                    "minimumRAM": "4GB",
+                    "recommendedRAM": "8GB"
+                },
+                "customerSupport": {
+                    "email": "support@technovasolutions.com",
+                    "phone": "+1-800-TECH-NOVA",
+                    "availableHours": "24/7"
+                },
+                "shippingOptions": [
+                    {
+                        "name": "Digital",
+                        "method": "Digital Download",
+                        "cost": 0,
+                        "estimatedDelivery": "Instant",
+                        "fromCountry": {
+                            "name": "All",
+                            "code": "All"
+                        },
+                        "toCountry": {
+                            "name": "All",
+                            "code": "All"
+                        }
+                    },
+                    {
+                        "name": "Ship",
+                        "method": "Standard Shipping",
+                        "cost": 12.99,
+                        "estimatedDelivery": "1-3 business days",
+                        "fromCountry": {
+                            "name": "All",
+                            "code": "All"
+                        },
+                        "toCountry": {
+                            "name": "All",
+                            "code": "All"
+                        }
+                    }
+                ],
+                "sicCode": "7372",
+                "gtipCode": "8523.51"
+            },
+            {
+                "id": "p002",
+                "name": "Egg",
+                "category": "Food & Beverage",
+                "description": "Food",
+                "launchDate": "2015-03-15",
+                "price": 19.99,
+                "currency": "USD",
+                "subscriptionModel": "",
+                "freeTrialDays": 0,
+                "technicalRequirements": {
+                    "operatingSystems": [
+                        "Windows 10+",
+                        "macOS 10.14+",
+                        "Linux"
+                    ],
+                    "minimumRAM": "4GB",
+                    "recommendedRAM": "8GB"
+                },
+                "customerSupport": {
+                    "email": "support@technovasolutions.com",
+                    "phone": "+1-800-TECH-NOVA",
+                    "availableHours": "24/7"
+                },
+                "shippingOptions": [
+                    {
+                        "name": "Plane",
+                        "method": "Plane Shipping",
+                        "cost": 0,
+                        "estimatedDelivery": "3-5 days",
+                        "fromCountry": {
+                            "name": "Andorra",
+                            "code": "Andorra"
+                        },
+                        "toCountry": {
+                            "name": "United Arab Emirates",
+                            "code": "United Arab Emirates"
+                        }
+                    },
+                    {
+                        "name": "Ship",
+                        "method": "Standard Shipping",
+                        "cost": 12.99,
+                        "estimatedDelivery": "1-3 business days",
+                        "fromCountry": {
+                            "name": "All",
+                            "code": "All"
+                        },
+                        "toCountry": {
+                            "name": "All",
+                            "code": "All"
+                        }
+                    }
+                ],
+                "sicCode": "7372",
+                "gtipCode": "8523.51"
+            }
+        ]
+    },
+    {
+        "id": "c002",
+        "name": "GreenEarth Innovations",
+        "legalName": "GreenEarth Innovations LLC",
+        "founded": 2015,
+        "headquarters": {
+            "address": "456 Eco Boulevard",
+            "city": "Austin",
+            "state": "TX",
+            "zipCode": "78701",
+            "country": {
+                "name": "United States",
+                "code": "US"
+            }
+        },
+        "otherOffices": [
+            {
+                "city": "Portland",
+                "state": "OR",
+                "country": {
+                    "name": "United States",
+                    "code": "US"
+                }
+            }
+        ],
+        "industry": "Renewable Energy",
+        "sector": "Clean Technology",
+        "employeeCount": 500,
+        "ceo": "Michael Green",
+        "publiclyTraded": false,
+        "fundingRound": "Series C",
+        "totalFunding": {
+            "amount": 150000000,
+            "currency": "USD"
+        },
+        "revenue": {
+            "amount": 75000000,
+            "currency": "USD",
+            "year": 2023
+        },
+        "website": "https://www.greenearthinnovations.com",
+        "socialMedia": {
+            "linkedin": "https://www.linkedin.com/company/greenearth-innovations",
+            "twitter": "@GreenEarthInno",
+            "instagram": "@greenearthinnovations"
+        },
+        "products": [
+            {
+                "id": "p003",
+                "name": "EcoCharge",
+                "category": "Renewable Energy",
+                "description": "Portable solar-powered charger for all your devices.",
+                "launchDate": "2018-06-01",
+                "price": 149.99,
+                "currency": "USD",
+                "warranty": {
+                    "duration": 2,
+                    "unit": "years"
+                },
+                "certifications": [
+                    "Energy Star",
+                    "RoHS Compliant"
+                ],
+                "technicalSpecifications": {
+                    "capacity": "10000mAh",
+                    "solarPanelOutput": "5W",
+                    "usbPorts": 2,
+                    "weight": "400g"
+                },
+                "customerSupport": {
+                    "email": "support@greenearthinnovations.com",
+                    "phone": "+1-888-GREEN-TECH",
+                    "availableHours": "Mon-Fri, 9AM-6PM EST"
+                },
+                "shippingOptions": [
+                    {
+                        "name": "Fly",
+                        "method": "Plane Shipping",
+                        "cost": 12.99,
+                        "estimatedDelivery": "1-3 business days",
+                        "fromCountry": {
+                            "name": "United States",
+                            "code": "US"
+                        },
+                        "toCountry": {
+                            "name": "United States",
+                            "code": "US"
+                        }
+                    },
+                    {
+                        "name": "Ship",
+                        "method": "Standard Shipping",
+                        "cost": 12.99,
+                        "estimatedDelivery": "1-3 business days",
+                        "fromCountry": {
+                            "name": "United States",
+                            "code": "US"
+                        },
+                        "toCountry": {
+                            "name": "Canada",
+                            "code": "CA"
+                        }
+                    }
+                ],
+                "sicCode": "3629",
+                "gtipCode": "8507.60"
+            },
+            {
+                "id": "p004",
+                "name": "Egg yolk",
+                "category": "Food & Beverage",
+                "description": "eat food",
+                "launchDate": "2018-06-01",
+                "price": 149.99,
+                "currency": "USD",
+                "warranty": {
+                    "duration": 2,
+                    "unit": "years"
+                },
+                "certifications": [
+                    "Energy Star",
+                    "RoHS Compliant"
+                ],
+                "technicalSpecifications": {
+                    "capacity": "10000mAh",
+                    "solarPanelOutput": "5W",
+                    "usbPorts": 2,
+                    "weight": "400g"
+                },
+                "customerSupport": {
+                    "email": "support@greenearthinnovations.com",
+                    "phone": "+1-888-GREEN-TECH",
+                    "availableHours": "Mon-Fri, 9AM-6PM EST"
+                },
+                "shippingOptions": [
+                    {
+                        "name": "Fly",
+                        "method": "Plane Shipping",
+                        "cost": 12.99,
+                        "estimatedDelivery": "1-3 business days",
+                        "fromCountry": {
+                            "name": "United States",
+                            "code": "US"
+                        },
+                        "toCountry": {
+                            "name": "All",
+                            "code": "All"
+                        }
+                    },
+                    {
+                        "name": "Ship",
+                        "method": "Standard Shipping",
+                        "cost": 12.99,
+                        "estimatedDelivery": "1-3 business days",
+                        "fromCountry": {
+                            "name": "United States",
+                            "code": "US"
+                        },
+                        "toCountry": {
+                            "name": "Canada",
+                            "code": "CA"
+                        }
+                    }
+                ],
+                "sicCode": "3629",
+                "gtipCode": "8507.60"
+            }
+        ]
+    }
+]
